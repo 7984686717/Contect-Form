@@ -15,7 +15,3 @@ body{
 .cd{
     font-size: 20px;
 }
-
-.btn{
-    background: radial-gradient(circle, rgba(179,45,45,1) 17%, rgba(252,176,69,1) 32%, rgba(77,66,60,1) 53%);
-}
